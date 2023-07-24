@@ -17,8 +17,8 @@
   </div>
 </template>
 
-<script setup>
-import MySelect from "./components/MySelect.vue";
+<script setup
+import selectfour from "./components/select/block four/selectfour.vue";
 import MyTextInput from "./components/MyTextInput.vue";
 import { onMounted, ref } from "vue";
 
